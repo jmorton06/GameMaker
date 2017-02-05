@@ -8,7 +8,10 @@
   <sprites name="sprites">
     <sprite>sprites\sprPlayerWalkEast</sprite>
     <sprite>sprites\spriteBullet</sprite>
+    <sprite>sprites\spriteShotgunBullet</sprite>
+    <sprite>sprites\spriteUzi</sprite>
     <sprite>sprites\spritePistolBullet</sprite>
+    <sprite>sprites\spritePistol</sprite>
     <sprite>sprites\sprWall</sprite>
     <sprite>sprites\spriteShotgun</sprite>
   </sprites>
@@ -20,7 +23,12 @@
     <object>objects\objHero</object>
     <object>objects\objBullet</object>
     <object>objects\objPistolBullet</object>
+    <object>objects\objShotgunBullet</object>
     <object>objects\objWall</object>
+    <object>objects\objUzi</object>
+    <object>objects\objShotgun</object>
+    <object>objects\objPistol</object>
+    <object>objects\objPickUp</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\roomTest</room>
